@@ -1,0 +1,9 @@
+Saved Linked List.
+
+R32
+L0
+R0
+L0
+R0
+L12
+R33

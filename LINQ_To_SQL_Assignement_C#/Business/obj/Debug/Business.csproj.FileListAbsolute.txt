@@ -1,0 +1,6 @@
+E:\Year 2\Semester 2\Windows Programming C#\Projects\CSharpProject\Business\bin\Debug\Business.dll
+E:\Year 2\Semester 2\Windows Programming C#\Projects\CSharpProject\Business\bin\Debug\Business.pdb
+E:\Year 2\Semester 2\Windows Programming C#\Projects\CSharpProject\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\Year 2\Semester 2\Windows Programming C#\Projects\CSharpProject\Business\obj\Debug\Business.dll
+E:\Year 2\Semester 2\Windows Programming C#\Projects\CSharpProject\Business\obj\Debug\Business.pdb
+E:\Year 2\Semester 2\Windows Programming C#\Projects\CSharpProject\Business\bin\Debug\Business.dll.config
